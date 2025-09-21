@@ -47,3 +47,9 @@ Our Tableau Next dashboard integrates HR and Salesforce data to:
 - Expanding integration with HR platforms (Workday, SAP SuccessFactors) for real-world deployments.
 - Adding anonymized employee sentiment analysis from surveys or Slack messages.
 - Deploying dashboards across organizations to promote healthier, more productive workplaces.
+
+![488341c9-d125-473d-8a46-e804715c932f](https://github.com/user-attachments/assets/6b3fdf0b-f31e-44c9-a61f-916366e72717)
+
+<img width="1200" height="936" alt="Copy of Employee Well-Being   Productivity Insights - duyhandsome" src="https://github.com/user-attachments/assets/2e73e7dc-2573-4b88-97a4-2c111a84ba9a" />
+
+
