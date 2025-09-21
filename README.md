@@ -2,8 +2,9 @@
 employee-well-being-productivity-insights-duyhandsome
 
 Smarter insights for a healthier, happier workforce.
-https://orgfarm-2456822044.lightning.force.com/tableau/dashboard/New_Dashboard/view
-https://youtu.be/F9kLcVGTmUg
+- https://orgfarm-2456822044.lightning.force.com/tableau/dashboard/New_Dashboard/view
+- https://youtu.be/F9kLcVGTmUg
+- https://devpost.com/software/employee-well-being-productivity-insights-duyhandsome
 
 Employee Well-Being & Productivity Insights is a Tableau Next dashboard that integrates HR and Salesforce data to track absenteeism, satisfaction, productivity, and turnover. It highlights burnout risks and sends proactive Slack alerts so HR can take action before issues escalate.
 
